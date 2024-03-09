@@ -1,0 +1,20 @@
+{
+  "dataset_revision": "790b0510dc52b1553e8c49f3d2afb48c0e5c48b7",
+  "mteb_dataset_name": "QBQTC",
+  "mteb_version": "1.1.2",
+  "test": {
+    "cos_sim": {
+      "pearson": 0.3424965139806153,
+      "spearman": 0.3730880151585576
+    },
+    "euclidean": {
+      "pearson": 0.351299471531177,
+      "spearman": 0.37309299438631865
+    },
+    "evaluation_time": 10.04,
+    "manhattan": {
+      "pearson": 0.35089919913877515,
+      "spearman": 0.37256748382101657
+    }
+  }
+}

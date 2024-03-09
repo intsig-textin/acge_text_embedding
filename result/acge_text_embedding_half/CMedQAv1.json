@@ -1,0 +1,10 @@
+{
+  "dataset_revision": "8d7f1e942507dac42dc58017c1a001c3717da7df",
+  "mteb_dataset_name": "CMedQAv1",
+  "mteb_version": "1.1.2",
+  "test": {
+    "evaluation_time": 64.99,
+    "map": 0.8868256147612054,
+    "mrr": 0.9064261904761904
+  }
+}

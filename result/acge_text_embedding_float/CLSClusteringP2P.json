@@ -1,0 +1,10 @@
+{
+  "dataset_revision": "4b6227591c6c1a73bc76b1055f3b7f3588e72476",
+  "mteb_dataset_name": "CLSClusteringP2P",
+  "mteb_version": "1.1.2",
+  "test": {
+    "evaluation_time": 934.44,
+    "v_measure": 0.469037806510524,
+    "v_measure_std": 0.011072005002928698
+  }
+}

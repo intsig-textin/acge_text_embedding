@@ -1,0 +1,20 @@
+{
+  "dataset_revision": null,
+  "mteb_dataset_name": "LCQMC",
+  "mteb_version": "1.1.1",
+  "test": {
+    "cos_sim": {
+      "pearson": 0.7113799238905196,
+      "spearman": 0.7817304786177175
+    },
+    "euclidean": {
+      "pearson": 0.7748642718370318,
+      "spearman": 0.7817554866337617
+    },
+    "evaluation_time": 7.69,
+    "manhattan": {
+      "pearson": 0.7747501828376532,
+      "spearman": 0.7816650098418465
+    }
+  }
+}

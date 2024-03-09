@@ -1,0 +1,25 @@
+{
+  "dataset_revision": "31efe3c427b0bae9c22cbb560b8f15491cc6bed7",
+  "mteb_dataset_name": "MassiveIntentClassification",
+  "mteb_version": "1.1.2",
+  "test": {
+    "evaluation_time": 16.38,
+    "zh-CN": {
+      "accuracy": 0.7585743106926698,
+      "accuracy_stderr": 0.014996034378599697,
+      "f1": 0.730397679729968,
+      "f1_stderr": 0.012500302940757903,
+      "main_score": 0.7585743106926698
+    }
+  },
+  "validation": {
+    "evaluation_time": 14.53,
+    "zh-CN": {
+      "accuracy": 0.7620265617314314,
+      "accuracy_stderr": 0.014541472936722538,
+      "f1": 0.7245841114937039,
+      "f1_stderr": 0.01133010454468929,
+      "main_score": 0.7620265617314314
+    }
+  }
+}

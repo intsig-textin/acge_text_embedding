@@ -1,0 +1,6 @@
+{
+ "in_features": 1024,
+ "out_features": 1792,
+ "bias": true,
+ "activation_function": "torch.nn.modules.linear.Identity"
+}

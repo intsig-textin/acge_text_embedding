@@ -1,0 +1,20 @@
+{
+  "dataset_revision": "9c6a90e430ac22b5779fb019a23e820b11a8b5e1",
+  "mteb_dataset_name": "PAWSX",
+  "mteb_version": "1.1.2",
+  "test": {
+    "cos_sim": {
+      "pearson": 0.39174828650756977,
+      "spearman": 0.4550279282640927
+    },
+    "euclidean": {
+      "pearson": 0.4486476513351844,
+      "spearman": 0.45520873279940816
+    },
+    "evaluation_time": 8.29,
+    "manhattan": {
+      "pearson": 0.4487198025363123,
+      "spearman": 0.4553158589409253
+    }
+  }
+}

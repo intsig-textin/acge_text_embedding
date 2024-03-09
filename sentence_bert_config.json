@@ -1,0 +1,4 @@
+{
+ "max_seq_length": 1024,
+ "do_lower_case": false
+}

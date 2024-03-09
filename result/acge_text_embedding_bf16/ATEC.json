@@ -1,0 +1,20 @@
+{
+  "dataset_revision": "0f319b1142f28d00e055a6770f3f726ae9b7d865",
+  "mteb_dataset_name": "ATEC",
+  "mteb_version": "1.1.2",
+  "test": {
+    "cos_sim": {
+      "pearson": 0.5352317196374685,
+      "spearman": 0.5794610819724817
+    },
+    "euclidean": {
+      "pearson": 0.6116974418403869,
+      "spearman": 0.5794681861980281
+    },
+    "evaluation_time": 11.13,
+    "manhattan": {
+      "pearson": 0.6116782535933452,
+      "spearman": 0.5794540903298445
+    }
+  }
+}

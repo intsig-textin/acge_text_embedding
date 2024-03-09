@@ -1,0 +1,15 @@
+{
+  "dataset_revision": "339287def212450dcaa9df8c22bf93e9980c7023",
+  "mteb_dataset_name": "Waimai",
+  "mteb_version": "1.1.2",
+  "test": {
+    "accuracy": 0.8856000000000002,
+    "accuracy_stderr": 0.005748043145279971,
+    "ap": 0.7362152033132061,
+    "ap_stderr": 0.011673453673977754,
+    "evaluation_time": 1.76,
+    "f1": 0.870916916405758,
+    "f1_stderr": 0.004997689843902893,
+    "main_score": 0.8856000000000002
+  }
+}

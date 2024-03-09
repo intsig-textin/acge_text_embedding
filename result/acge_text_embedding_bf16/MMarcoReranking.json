@@ -1,0 +1,10 @@
+{
+  "dataset_revision": "8e0c766dbe9e16e1d221116a3f36795fbade07f6",
+  "dev": {
+    "evaluation_time": 77.24,
+    "map": 0.27054392822906315,
+    "mrr": 0.29001190476190475
+  },
+  "mteb_dataset_name": "MMarcoReranking",
+  "mteb_version": "1.1.2"
+}

@@ -1,0 +1,10 @@
+{
+  "dataset_revision": null,
+  "mteb_dataset_name": "CLSClusteringS2S",
+  "mteb_version": "1.1.1",
+  "test": {
+    "evaluation_time": 55.48,
+    "v_measure": 0.44259095471511933,
+    "v_measure_std": 0.013162258362441878
+  }
+}

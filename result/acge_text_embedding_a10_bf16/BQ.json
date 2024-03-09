@@ -1,0 +1,20 @@
+{
+  "dataset_revision": null,
+  "mteb_dataset_name": "BQ",
+  "mteb_version": "1.1.1",
+  "test": {
+    "cos_sim": {
+      "pearson": 0.6827376047375847,
+      "spearman": 0.7037250413109453
+    },
+    "euclidean": {
+      "pearson": 0.6942852768280962,
+      "spearman": 0.7037187366396407
+    },
+    "evaluation_time": 7.01,
+    "manhattan": {
+      "pearson": 0.694038790612488,
+      "spearman": 0.7034866071976907
+    }
+  }
+}

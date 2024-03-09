@@ -1,0 +1,13 @@
+{
+  "dataset_revision": "46958b007a63fdbf239b7672c25d0bea67b5ea1a",
+  "mteb_dataset_name": "MultilingualSentiment",
+  "mteb_version": "1.1.2",
+  "validation": {
+    "accuracy": 0.7756333333333334,
+    "accuracy_stderr": 0.004520201568760209,
+    "evaluation_time": 26.01,
+    "f1": 0.7753666660124703,
+    "f1_stderr": 0.0060536558948603575,
+    "main_score": 0.7756333333333334
+  }
+}

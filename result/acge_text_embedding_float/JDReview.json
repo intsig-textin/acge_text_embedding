@@ -1,0 +1,15 @@
+{
+  "dataset_revision": "b7c64bd89eb87f8ded463478346f76731f07bf8b",
+  "mteb_dataset_name": "JDReview",
+  "mteb_version": "1.1.2",
+  "test": {
+    "accuracy": 0.8669793621013133,
+    "accuracy_stderr": 0.009170243459549659,
+    "ap": 0.5546718958939327,
+    "ap_stderr": 0.013907979413741858,
+    "evaluation_time": 11.04,
+    "f1": 0.8148228915952436,
+    "f1_stderr": 0.008989126268531128,
+    "main_score": 0.8669793621013133
+  }
+}

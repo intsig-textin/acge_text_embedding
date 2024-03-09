@@ -1,0 +1,15 @@
+{
+  "dataset_revision": "e610f2ebd179a8fda30ae534c3878750a96db120",
+  "mteb_dataset_name": "OnlineShopping",
+  "mteb_version": "1.1.2",
+  "test": {
+    "accuracy": 0.9375,
+    "accuracy_stderr": 0.005333854141237797,
+    "ap": 0.918757063139003,
+    "ap_stderr": 0.0038428310634423444,
+    "evaluation_time": 2.88,
+    "f1": 0.9373901896028437,
+    "f1_stderr": 0.005292186558409531,
+    "main_score": 0.9375
+  }
+}

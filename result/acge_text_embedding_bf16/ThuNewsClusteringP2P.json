@@ -1,0 +1,10 @@
+{
+  "dataset_revision": "5798586b105c0434e4f0fe5e767abe619442cf93",
+  "mteb_dataset_name": "ThuNewsClusteringP2P",
+  "mteb_version": "1.1.2",
+  "test": {
+    "evaluation_time": 119.09,
+    "v_measure": 0.7376590442198114,
+    "v_measure_std": 0.020385919601893947
+  }
+}

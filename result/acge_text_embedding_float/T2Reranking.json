@@ -1,0 +1,10 @@
+{
+  "dataset_revision": "76631901a18387f85eaa53e5450019b87ad58ef9",
+  "dev": {
+    "evaluation_time": 2330.51,
+    "map": 0.6621181510400598,
+    "mrr": 0.7580361172905181
+  },
+  "mteb_dataset_name": "T2Reranking",
+  "mteb_version": "1.1.2"
+}

@@ -1,0 +1,13 @@
+{
+  "dataset_revision": "317f262bf1e6126357bbe89e875451e4b0938fe4",
+  "mteb_dataset_name": "TNews",
+  "mteb_version": "1.1.2",
+  "validation": {
+    "accuracy": 0.53685,
+    "accuracy_stderr": 0.0031674121929423623,
+    "evaluation_time": 28.36,
+    "f1": 0.5186645102010333,
+    "f1_stderr": 0.004140372860451435,
+    "main_score": 0.53685
+  }
+}

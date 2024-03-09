@@ -1,0 +1,20 @@
+{
+  "dataset_revision": null,
+  "mteb_dataset_name": "AFQMC",
+  "mteb_version": "1.1.1",
+  "validation": {
+    "cos_sim": {
+      "pearson": 0.5403313115451808,
+      "spearman": 0.5880630275663453
+    },
+    "euclidean": {
+      "pearson": 0.5746843921090328,
+      "spearman": 0.5880155813915751
+    },
+    "evaluation_time": 2.86,
+    "manhattan": {
+      "pearson": 0.5745948298354011,
+      "spearman": 0.5879717540772654
+    }
+  }
+}
